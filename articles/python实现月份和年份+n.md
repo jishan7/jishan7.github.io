@@ -7,10 +7,11 @@
 比如2015年1月31日的下个月同一天是2月28日
 
 代码如下：
-​```python
+
+
+```python
 import datetime
 import calendar
-
 
 def add_months(dt, months):
     month = dt.month - 1 + months
@@ -19,14 +20,14 @@ def add_months(dt, months):
     day = min(dt.day, calendar.monthrange(year, month)[1])
     return dt.replace(year=year, month=month, day=day)
 
-
 def add_years(dt, n):
     year = dt.year + n
     month = dt.month
     day = min(dt.day, calendar.monthrange(year, month)[1])
     return dt.replace(year=year, month=month, day=day)
 
-
 print(add_months(datetime.datetime.now(), 1))
 print(add_years(datetime.datetime.now(), 1))
+
 ```
+
