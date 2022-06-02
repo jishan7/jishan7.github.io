@@ -17,3 +17,4 @@
 ## 其他技术
 
 * [一些杂七杂八的技巧和注意项](./articles/一些杂七杂八的技巧和注意项.md)
+* [【已解决】安装pyleus遇到的'bdist_wheel'错误](./articles/安装pyleus遇到的bdist_wheel错误.md)
