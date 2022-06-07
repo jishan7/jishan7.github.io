@@ -14,6 +14,7 @@
 
 或者，设置当前的Session Options-->Terminal-->Emulation-->Terminal为Linux
 
-```
-注意：这个方法同样可以解决键盘home、end、delete键不好使的问题。笔者原先设置是VT100，而不是linux，所以没法很开心的使用这几个键，现在好了~
-```
+注意：这个方法同样可以解决键盘home、end、delete键不好使的问题。
+
+笔者原先设置是VT100，而不是linux，所以没法很开心的使用这几个键，现在好了~
+
