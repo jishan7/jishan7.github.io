@@ -26,3 +26,7 @@
 ## 即插即用demo系列
 
 * [RSA验证​](./articles/即插即用demo系列——RSA验证demo​.md)
+
+## 实用语句系列
+
+* [SQL](./articles/实用语句系列——sql.md)
