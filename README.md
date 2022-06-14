@@ -24,10 +24,11 @@
 
 ## 即插即用demo系列
 
-* [RSA验证​](./articles/即插即用demo系列——RSA验证demo​.md)
+* [RSA验证](./articles/即插即用demo系列——RSA验证demo.md)
 * [4舍6入5成双](./articles/即插即用demo系列——4舍6入5成双.md)
 * [结巴分词并计算权重](./articles/即插即用demo系列——结巴分词并计算权重.md)
 * [python调用C++代码](./articles/即插即用demo系列——python调用C++代码.md)
+* [文本相似度比较](./articles/即插即用demo系列——文本相似度比较.md)
 
 ## 实用语句系列
 

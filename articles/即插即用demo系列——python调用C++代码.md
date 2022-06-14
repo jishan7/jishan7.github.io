@@ -33,6 +33,7 @@ if __name__ == '__main__':
 ```
 
 C++部分：proc.cpp
+
 ```CPP
 #include <string>
 #include <iostream>
@@ -41,30 +42,29 @@ using namespace std;
 
 extern "C"
 {
-void init(char * c_pt_path);
-int process(char * c_pt_showstr, int number, char * retstr);
-
+    void init(char * c_pt_path);
+    int process(char * c_pt_showstr, int number, char * retstr);
 }
 
 // 供给python调用的初始化函数
 void init(char * c_pt_path){
-	string tmp1 = c_pt_path;
-	ETSPATH = tmp1;
+    string tmp1 = c_pt_path;
+    ETSPATH = tmp1;
 }
 
 // 给 python 调用的主函数
 int process(char * c_pt_showstr, int number, char * retstr){
-	int state = 0;  // 0表示失败
-	string showstr  = c_pt_showstr;
+    int state = 0;  // 0表示失败
+    string showstr  = c_pt_showstr;
 
-	cout<<showstr<<endl;
-	cout<<number<<endl;
-	
-	string ret = "ok";
-	strcpy(retstr, ret.c_str());
-	state = 1;
+    cout<<showstr<<endl;
+    cout<<number<<endl;
 
-	return state; // 1表示成功
+    string ret = "ok";
+    strcpy(retstr, ret.c_str());
+    state = 1;
+
+    return state; // 1表示成功
 }
 
 ```

@@ -1,8 +1,8 @@
-# 即插即用demo系列——RSA验证​
+# 即插即用demo系列——RSA验证
 
 注意：请先自行装好Crypto再尝试使用以下demo代码
 
-[安装Crypto参考链接​](http://ljhzzyx.blog.163.com/blog/static/3838031220136592824697/)
+[安装Crypto参考链接](http://ljhzzyx.blog.163.com/blog/static/3838031220136592824697/)
 
 demo代码如下：
 ```python
