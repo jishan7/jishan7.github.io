@@ -22,6 +22,7 @@
 
 * [一些杂七杂八的技巧和注意项](./articles/一些杂七杂八的技巧和注意项.md)
 * [如何快速查看Unicode和GBK的编码内容](./articles/如何快速查看Unicode和GBK的编码内容.md)
+* [使用pem快速进行ssh登录](./articles/使用pem快速进行ssh登录.md)
 
 ## 即插即用demo系列
 
