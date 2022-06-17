@@ -2,8 +2,6 @@
 
 注意：请先自行装好Crypto再尝试使用以下demo代码
 
-[安装Crypto参考链接](http://ljhzzyx.blog.163.com/blog/static/3838031220136592824697/)
-
 demo代码如下：
 ```python
 # coding=gbk
@@ -86,4 +84,5 @@ if __name__ == "__main__":
 ```
 
 执行截图：
-<div align="center"><img src="https://img-blog.csdn.net/20160901143552384?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" /></div>
+
+<div align="center"><img src='../pics/rsa验证截图.png'></img></div>
