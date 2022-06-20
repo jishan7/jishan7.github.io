@@ -4,10 +4,12 @@
 
 * [按行打印二叉树，每行后面回车](./articles/按行打印二叉树并且每行后面回车.md)
 * [如何判断一个数是不是回文数](./articles/如何判断一个数是不是回文数.md)
+* [不用递归的后序遍历python实现](./articles/不用递归的后序遍历python实现.md)
 
 ## Python
 
 * [python实现月份和年份+n](./articles/python实现月份和年份+n.md)
+* [class中的模式方法__call__()](./articles/class中的模式方法__call__().md)
 
 ## 随想
 

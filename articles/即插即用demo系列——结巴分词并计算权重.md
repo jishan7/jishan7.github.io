@@ -31,7 +31,6 @@ def getWords(content):
 
 t1 = time.time()
 
-
 content = open("news.txt", 'r').read()
 
 final = getWords(content)
@@ -39,12 +38,9 @@ print final
 
 tags2 = jieba.analyse.extract_tags(final, topK=10)
 
-
-
 print '输出：'
 for word in tags2:
     print word.encode('gbk')
-
 
 t2 = time.time()
 tm_cost = t2-t1
@@ -77,16 +73,11 @@ jieba.disable_parallel()
 台风红色预警：“莫兰蒂”15日登陆闽粤 狂风暴雨来袭
 
 防御指南：
-
 政府及相关部门按照职责做好防台风抢险应急工作；
-
 相关水域水上作业和过往船舶应当回港避风，加固港口设施，防止船舶走锚、搁浅和碰撞；
-
 停止室内外大型集会和高空等户外危险作业。
-
 加固或者拆除易被风吹动的搭建物,人员切勿随意外出，应尽可能待在防风安全的地方，确保老人小孩留在家中最安全的地方，危房人员及时转移。当台风中心经过时风力会减小或者静止一段时间，切记强风将会突然吹袭，应当继续留在安全处避风，危房人员及时转移。
-
-5.相关地区应当注意防范强降水可能引发的山洪、地质灾害。
+相关地区应当注意防范强降水可能引发的山洪、地质灾害。
 ```
 
 用户词典 userdict.txt的内容：
