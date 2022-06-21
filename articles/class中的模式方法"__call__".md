@@ -1,4 +1,4 @@
-# Python class中的模式方法 __call__()是什么鬼？！
+# Python class中的模式方法"\_\_call\_\_"是什么鬼？！
 
 ```python
 class Animal(object):

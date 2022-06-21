@@ -9,7 +9,7 @@
 ## Python
 
 * [python实现月份和年份+n](./articles/python实现月份和年份+n.md)
-* [class中的模式方法__call__()](./articles/class中的模式方法__call__().md)
+* [class中的模式方法__call__()](./articles/class中的模式方法"__call__".md)
 
 ## 随想
 
