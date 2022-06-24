@@ -1,4 +1,4 @@
-# 大林程序员的blog
+# 大林程序员的技术博客
 
 ## 算法
 
@@ -11,6 +11,7 @@
 * [python实现月份和年份+n](./articles/python实现月份和年份+n.md)
 * [class中的模式方法__call__()](./articles/class中的模式方法"__call__".md)
 * [python元类是什么玩意儿](./articles/python元类是什么玩意儿.md)
+* [python实用语句(不定时更新)](./articles/python实用语句.md)
 
 ## 随想
 
@@ -43,4 +44,3 @@
 ## MySQL
 
 * [涨姿势了：为何总报同一个主键冲突Duplicate entry '2147483647' for key PRIMARY](./articles/主键冲突2147483647.md)
-

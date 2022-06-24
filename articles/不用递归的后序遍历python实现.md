@@ -9,9 +9,9 @@
 stack = []
 
 class Node(object):
-    data=0
-    lChild=None
-    rChild=None
+    data = 0
+    lChild = None
+    rChild = None
     
 
 def NewNode(_data):    
@@ -28,7 +28,6 @@ def postOrder(root):
             while (t):   #  循环，将所有最左结点压栈
                 stack.append(t)
                 t = t.lChild
-
 
             flag = 1   # 表示左子树的节点为空或者都被访问了
             p = None   # 最近一个被访问过的节点
