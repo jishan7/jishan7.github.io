@@ -14,7 +14,6 @@
 * [python实用语句(不定时更新)](./articles/python实用语句.md)
 * [快速确定python的执行路径、lib库、site-packages的位置](./articles/快速确定python的执行路径、lib库、site-packages的位置.md)
 
-
 ## 随想
 
 * [中国IT界或许应有这种职业：技术策划or技术前沿工程师](./articles/技术策划or技术前沿工程师.md)
@@ -23,6 +22,7 @@
 
 * [【已解决】安装pyleus遇到的'bdist_wheel'错误](./articles/安装pyleus遇到的bdist_wheel错误.md)
 * [【已解决】redis-cli后打字就出现无数个127.0.0.1:6379>](./articles/redis-cli后打字就出现无数个127.md)
+* [ImportError: No module named _ssl 安装python时遇到的，如何解决？](./articles/ImportError:No_module_named__ssl.md)
 
 ## 其他技术
 
