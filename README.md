@@ -30,6 +30,7 @@
 * [如何快速查看Unicode和GBK的编码内容](./articles/如何快速查看Unicode和GBK的编码内容.md)
 * [使用pem快速进行ssh登录](./articles/使用pem快速进行ssh登录.md)
 * [使用timestamp记录跨时区对战时间信息](./articles/使用timestamp记录跨时区对战时间信息.md)
+* [如何直接修改上一次的git commit提交内容？](./articles/如何直接修改上一次的git—commit提交内容？.md)
 
 ## 即插即用demo系列
 
