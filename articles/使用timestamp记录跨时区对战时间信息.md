@@ -46,6 +46,6 @@ from timetest;
 
 就会发现，时间戳数字只相差1（手速原因），但是显示的date和time是不一样的。
 
-<div align="center"><img src='../pics/使用timestamp记录跨时区对战时间信息-1.png'> </img></div>
+<div align="center"><img src='../pics/使用timestamp记录跨时区对战时间信息-1.png' /></div>
 
-<div align="center"><img src='../pics/使用timestamp记录跨时区对战时间信息-2.png'> </img></div>
+<div align="center"><img src='../pics/使用timestamp记录跨时区对战时间信息-2.png' /></div>

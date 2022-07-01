@@ -8,6 +8,7 @@
 
 ## Python
 
+* [python3怎么安装？绝对靠谱的安装全流程来了！](./articles/python3怎么安装？绝对靠谱的安装全流程来了！.md)
 * [python实现月份和年份+n](./articles/python实现月份和年份+n.md)
 * [class中的模式方法__call__()](./articles/class中的模式方法"__call__".md)
 * [python元类是什么玩意儿](./articles/python元类是什么玩意儿.md)
@@ -30,7 +31,7 @@
 * [如何快速查看Unicode和GBK的编码内容](./articles/如何快速查看Unicode和GBK的编码内容.md)
 * [使用pem快速进行ssh登录](./articles/使用pem快速进行ssh登录.md)
 * [使用timestamp记录跨时区对战时间信息](./articles/使用timestamp记录跨时区对战时间信息.md)
-* [如何直接修改上一次的git commit提交内容？](./articles/如何直接修改上一次的git—commit提交内容？.md)
+* [如何直接修改上一次的git commit提交内容？](./articles/如何直接修改上一次的git—commit提交内容.md)
 
 ## 即插即用demo系列
 
