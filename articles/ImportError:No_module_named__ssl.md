@@ -1,6 +1,5 @@
 # ImportError: No module named _ssl 安装python时遇到的，如何解决？
 
-​
 不是我爱diss
 参考了网上几篇，有很多疏漏粗心之处，没法解决问题
 

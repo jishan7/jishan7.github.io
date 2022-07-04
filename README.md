@@ -8,7 +8,7 @@
 
 ## Python
 
-* [python3怎么安装？绝对靠谱的安装全流程来了！](./articles/python3怎么安装？绝对靠谱的安装全流程来了！.md)
+* [python3怎么安装？绝对靠谱的安装全流程来了！](./articles/python3绝对靠谱的安装全流程.md)
 * [python实现月份和年份+n](./articles/python实现月份和年份+n.md)
 * [class中的模式方法__call__()](./articles/class中的模式方法"__call__".md)
 * [python元类是什么玩意儿](./articles/python元类是什么玩意儿.md)
@@ -25,13 +25,14 @@
 * [【已解决】redis-cli后打字就出现无数个127.0.0.1:6379>](./articles/redis-cli后打字就出现无数个127.md)
 * [ImportError: No module named _ssl 安装python时遇到的，如何解决？](./articles/ImportError:No_module_named__ssl.md)
 
-## 其他技术
+## 其他
 
 * [一些杂七杂八的技巧和注意项](./articles/一些杂七杂八的技巧和注意项.md)
 * [如何快速查看Unicode和GBK的编码内容](./articles/如何快速查看Unicode和GBK的编码内容.md)
 * [使用pem快速进行ssh登录](./articles/使用pem快速进行ssh登录.md)
 * [使用timestamp记录跨时区对战时间信息](./articles/使用timestamp记录跨时区对战时间信息.md)
 * [如何直接修改上一次的git commit提交内容？](./articles/如何直接修改上一次的git—commit提交内容.md)
+* [什么是Web 3.0以及为什么它很重要【译文】](./articles/什么是Web3dot0以及为什么它很重要.md)
 
 ## 即插即用demo系列
 
