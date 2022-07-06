@@ -14,6 +14,7 @@
 * [python元类是什么玩意儿](./articles/python元类是什么玩意儿.md)
 * [python实用语句(不定时更新)](./articles/python实用语句.md)
 * [快速确定python的执行路径、lib库、site-packages的位置](./articles/快速确定python的执行路径、lib库、site-packages的位置.md)
+* [Patch文件的生成和使用](./articles/Patch文件的生成和使用.md)
 
 ## 随想
 
