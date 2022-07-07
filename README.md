@@ -35,6 +35,7 @@
 * [如何直接修改上一次的git commit提交内容？](./articles/如何直接修改上一次的git—commit提交内容.md)
 * [什么是Web 3.0以及为什么它很重要【译文】](./articles/什么是Web3dot0以及为什么它很重要.md)
 * [Git代码冲突的解决办法](./articles/Git代码冲突的解决办法.md)
+* [Git实用命令分享](./articles/Git实用命令分享.md)
 
 ## 即插即用demo系列
 
