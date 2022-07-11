@@ -37,6 +37,7 @@
 * [Git代码冲突的解决办法](./articles/Git代码冲突的解决办法.md)
 * [Git实用命令分享](./articles/Git实用命令分享.md)
 * [实用、免费的在线工具类网站分享](./articles/实用免费的在线工具类网站分享.md)
+* [Vim着色设置](./articles/Vim着色设置.md)
 
 ## 即插即用demo系列
 
