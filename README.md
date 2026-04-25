@@ -60,4 +60,4 @@
 ## Docker
 
 * [Docker镜像常用高频命令](./articles/docker镜像常用高频命令.md)
-* [10个 AI Chat 网站（2026版）](./articles/10个相对小众但实用的AI Chat网站（2026版）.md)
+* [10个 AI Chat 网站（2026版）](./articles/10个AI-Chat网站.md)
