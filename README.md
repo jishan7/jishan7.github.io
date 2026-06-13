@@ -32,6 +32,7 @@
 
 * [10个小众冷门好用的生产力工具网站（2026版）](./articles/10个小众冷门好用的生产力工具网站.md)
 * [10个 AI Chat 网站（2026版）](./articles/10个AI-Chat网站.md)
+* [10个小游戏推荐（2026版）](./articles/10个小游戏推荐.md)
 * [一些杂七杂八的技巧和注意项](./articles/一些杂七杂八的技巧和注意项.md)
 * [如何快速查看Unicode和GBK的编码内容](./articles/如何快速查看Unicode和GBK的编码内容.md)
 * [使用pem快速进行ssh登录](./articles/使用pem快速进行ssh登录.md)
