@@ -42,10 +42,10 @@
 
 简介：Prompt 社区属性强，能直接参考别人的提示词方案，适合新手快速入门。
 
-## 9) OpenRouter
-[OpenRouter](https://openrouter.ai/)
+## 9) Codex Skin
+[Codex Skin](https://codex-skin.org/)
 
-简介：偏开发者友好，模型选择多，适合有一定技术基础、想精细控制成本和效果的人。
+简介：帮助用户生成、预览并导出可审查的 Codex 桌面端皮肤，支持颜色对比检查与 diff 效果预览。
 
 ## 10) MAIgic
 [MAIgic](https://howtodeepseekv4.com/)
