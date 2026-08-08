@@ -1,7 +1,3 @@
----
-HappyHorse 1.1 API 与模型更新：参考生视频有哪些变化？
-解读 HappyHorse 1.1 的动态、质感、一致性、音频与 API 变化，并提供可直接用于参考生视频的提示词和检查方法。
----
 作者: Olivia Bennett
 
 HappyHorse 1.1 的重点可以从成片中观察：运动更有方向，材质细节更稳定，主体在镜头推进后更容易保持原样。更新资料还提到更强的指令理解与同步音频[1](https://www.paleorunningmomma.com/cilantro-lime-grilled-salmon-paleo-keto/comment-page-3/?unapproved=740186&moderation-hash=c7b41b6db6d8e7bfc8118b2e1d006dea#comment-740186)。
