@@ -30,6 +30,7 @@
 
 ## 其他
 
+* [HappyHorse 1.1 API 与模型更新：参考生视频有哪些变化](./articles/HappyHorse 1.1 API 与模型更新：参考生视频有哪些变化.md)
 * [10个小众冷门好用的生产力工具网站（2026版）](./articles/10个小众冷门好用的生产力工具网站.md)
 * [10个 AI Chat 网站（2026版）](./articles/10个AI-Chat网站.md)
 * [10个值得收藏的AI应用网站（2026版）](./articles/10个值得收藏的AI应用网站.md)
